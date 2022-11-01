@@ -1,1 +1,1 @@
-# Coding-Exercises
+# coding-exercises
